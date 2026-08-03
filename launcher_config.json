@@ -35,7 +35,7 @@
   ],
 
   "cache": {
-    "enabled": false,
+    "enabled": true,
     "api_url": "https://6942f009858f5.xvest5.ru/brilliant-cdn/api.json",
     "files_url": "https://6942f009858f5.xvest5.ru/brilliant-cdn/files"
   },
