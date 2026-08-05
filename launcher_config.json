@@ -19,7 +19,7 @@
       "name": "PRIME #1",
       "ip": "80.242.59.112",
       "port": 5285,
-      "x2": false,
+      "x2": true,
       "online": 0,
       "maxonline": 50
     }
